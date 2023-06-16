@@ -1,5 +1,5 @@
 # Como usar o Git e Github na prática
-
+Projeto Clone do repositório: https://github.com/rafaballerini/GitTutorial
 ## Instalando o GIT
 
 * [Link com os downloads](https://git-scm.com/downloads)
